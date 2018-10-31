@@ -5,7 +5,7 @@ The EventSource interface is used to receive server-sent events. It connects to 
 ##Installation
 
 1.
-  Clone into www directory: 
+  Clone into www directory:
 
 2.
   Import sql file from "server-sent-events-php/server-sent-event.sql" direcotry.
@@ -18,7 +18,5 @@ The EventSource interface is used to receive server-sent events. It connects to 
 
 
 
- *By sharaz ghouri*
 
-
- 
+ *By Sharaz Ghouri*
