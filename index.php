@@ -57,7 +57,5 @@ if(typeof(EventSource) !== "undefined") {
 }
 </script>
 
-
-
 </body>
 </html>
